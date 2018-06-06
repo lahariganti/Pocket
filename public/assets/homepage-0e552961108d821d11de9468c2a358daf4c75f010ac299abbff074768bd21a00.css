@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css?family=Rancho&effect=anaglyph");
+@import url("https://fonts.googleapis.com/css?family=Droid+Sans+Mono");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
+/* line 5, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+#view-source {
+  position: fixed;
+  display: block;
+  right: 0;
+  bottom: 0;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  z-index: 900;
+}
+
+/* line 15, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+html, body {
+  font-family: "Roboto Mono" !important;
+  margin: 20;
+  padding: 20;
+  position: relative;
+}
+
+/* line 22, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.mdl-data-table {
+  font-size: 10px;
+  margin-top: 8px !important;
+  table-layout: fixed !important;
+  width: 100%;
+}
+
+/* line 29, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+#order-table td, th {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -o-text-overflow: ellipsis;
+}
+
+/* line 36, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.mdl-data-table__cell--left {
+  text-align: left !important;
+}
+
+/* line 40, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.mdl-layout-title {
+  color: #ffffff !important;
+  font-family: "Roboto Mono" !important;
+}
+/* line 43, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.mdl-layout-title .draw-logo {
+  color: #000000 !important;
+}
+/* line 46, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.mdl-layout-title a {
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+
+/* line 52, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.blok {
+  color: #000000 !important;
+  font-size: 9pt;
+}
+
+/* line 57, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.mdl-layout__drawer {
+  width: 200px !important;
+}
+
+/* line 60, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.mdl-layout__drawer, .mdl-layout__content {
+  background-color: #ffffff !important;
+}
+
+/* line 64, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.mdl-grid {
+  margin: 0 auto;
+}
+
+/* line 68, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.mdl-layout__header {
+  height: 65px;
+  background-color: #000000 !important;
+}
+
+/* line 73, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+a.mdl-navigation__link {
+  text-decoration: none !important;
+  color: #006058 !important;
+  font-size: 10pt;
+}
+
+/* line 79, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.mdl-layout__drawer-button {
+  outline: none;
+}
+
+/* line 83, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.lain {
+  height: 100%;
+  width: 100%;
+}
+
+/* line 88, /Users/burpingcow/Desktop/furierit/app/assets/stylesheets/homepage.scss */
+.portfolio {
+  font-size: 11pt !important;
+  text-decoration: none !important;
+  color: #26648D !important;
+  font-size: 10pt;
+}

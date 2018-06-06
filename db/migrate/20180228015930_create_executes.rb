@@ -1,0 +1,8 @@
+class CreateExecutes < ActiveRecord::Migration[5.1]
+  def change
+    create_table :executes do |t|
+
+      t.timestamps
+    end
+  end
+end

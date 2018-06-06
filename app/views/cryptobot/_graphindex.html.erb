@@ -1,0 +1,152 @@
+<script type="text/javascript">
+  $('#indexindexcontainer').bind('mousemove touchmove touchstart', function (e) {
+	  var chart,
+		  point,
+		  i,
+		  event;
+
+	  for (i = 0; i < Highcharts.charts.length; i = i + 1) {
+		  chart = Highcharts.charts[i];
+		  // Find coordinates within the chart
+		  event = chart.pointer.normalize(e.originalEvent);
+		  // Get the hovered point
+		  point = chart.series[0].searchPoint(event, true);
+
+		  if (point) {
+			  point.highlight(e);
+		  }
+	  }
+  });
+
+  Highcharts.Pointer.prototype.reset = function () {
+	  return undefined;
+  };
+
+
+  Highcharts.Point.prototype.highlight = function (event) {
+	  event = this.series.chart.pointer.normalize(event);
+	  this.onMouseOver(); // Show the hover marker
+	  this.series.chart.tooltip.refresh(this); // Show the tooltip
+	  this.series.chart.xAxis[0].drawCrosshair(event, this); // Show the crosshair
+  };
+
+  function syncExtremes(e) {
+	var thisChart = this.chart;
+	if (e.trigger !== 'syncExtremes') { // Prevent feedback loop
+	  Highcharts.each(Highcharts.charts, function (chart) {
+		if (chart !== thisChart) {
+		  if (chart.xAxis[0].setExtremes) { // It is null while updating
+			chart.xAxis[0].setExtremes(
+			  e.min,
+			  e.max,
+			  undefined,
+			  false,
+			  { trigger: 'syncExtremes' }
+			);
+		  }
+		}
+	  });
+	}
+  }
+
+  var assets = <%= raw @assets %>;
+  $.each(assets, function(i, asset){
+
+	$.getJSON('index.json?assetpair=' + asset, function (activity) {
+	  $.each(activity.datasets, function (i, dataset) {
+		dataset.data = Highcharts.map(dataset.data, function (val, j) {
+			return [activity.xData[j], val];
+		});
+
+	  $('<div class="chart">')
+		.appendTo('#indexcontainer')
+		.highcharts({
+		  chart: {
+			margin: [70, 70, 70, 120], // Keep all charts left aligned
+			spacingTop: 20,
+			spacingBottom: 20, 
+			height: 400,
+			width: 600
+		  },
+		  exporting: {
+			enabled: false
+		  },
+		  title: {
+			text: dataset.name,
+			align: 'center',
+			margin: 0,
+			x: 30,
+			style: {
+			  fontSize: '12px'
+			}
+		  },
+		  credits: {
+			  enabled: false
+		  },
+		  legend: {
+			  enabled: false
+		  },
+		  xAxis: {
+			  crosshair: true,
+			  events: {
+				  setExtremes: syncExtremes
+			  },
+			  labels: {
+				  format: '{value}'
+			  }
+		  },
+		  yAxis: {
+			  title: {
+				  text: null
+			  }
+		  },
+		  xAxis: {
+			type: 'datetime',
+			dateTimeLabelFormats: {
+			  day: '%e. %b',
+			  second: '%H:%M:%S' 
+			}
+		  },
+		  plotOptions: {
+			column:{
+			  pointWidth: 3
+			},
+			line:{
+			  marker: {
+				enabled: false
+			  }
+			}
+		  },
+		  tooltip: {
+			positioner: function () {
+			  return {
+				// right aligned
+				x: this.chart.chartWidth - this.label.width,
+				y: 10 // align to title
+			  };
+			},
+			borderWidth: 0,
+			backgroundColor: 'none',
+			pointFormat: '{point.y}',
+			headerFormat: '',
+			shadow: false,
+			style: {
+			  fontSize: '12px'
+			},
+			valueDecimals: 5
+		  },
+		  series: [{
+			data: dataset.data,
+			name: dataset.name,
+			type: 'line',
+			color: '#000000',
+			fillOpacity: 0.75,
+			tooltip: {
+				valueSuffix: ' ' 
+			}
+		  }]
+		});
+	  });
+	});
+  });
+</script>

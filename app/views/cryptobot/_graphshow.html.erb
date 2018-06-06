@@ -1,0 +1,92 @@
+<script type="text/javascript">
+var assets = <%= raw @assets %>;
+$.each(assets, function(i, asset){
+    $.getJSON('show.json?assetpair=' + asset, function (data) {
+        var chart1;
+        chart1 = Highcharts.StockChart('container', {
+          chart: {
+            zoomType: 'x',
+            height: 700
+          },
+          credits: {
+            enabled: false
+          },
+          exporting: {
+            enabled: false
+          },
+          title: {
+            text: asset,
+          },
+          legend: {
+            enabled: true
+            // verticalAlign: 'top'
+          },
+          rangeSelector: {
+            inputEnabled: false,
+            selected: 1,
+            buttons: [{
+                    type: 'second',
+                    count: 300,
+                    text: '5m'
+                },{
+                    type: 'second',
+                    count: 900,
+                    text: '15m'
+                },{
+                    type: 'second',
+                    count: 1800,
+                    text: '30m'
+                },{
+                    type: 'minute',
+                    count: 60,
+                    text: '1h'
+                }, {
+                    type: 'day',
+                    count: 1,
+                    text: '1d'
+                },{
+                    type: 'all',
+                    text: 'All'
+                }]
+          },
+          plotOptions: {
+            series:{
+              compare: 'percent'
+            },
+          },
+          
+          tooltip: {
+            pointFormat: '<span style="color:{series.color}">{series.name}</span>: <b>{point.y}</b> ({point.change}%)<br/>',
+          },
+
+          series: [{
+            type: 'spline',
+            name: 'price',
+            color: '#000000',
+            lineWidth: 2
+          },{
+            type: 'spline',
+            name: 'sma',
+            color: '#407A52',
+            lineWidth: 1
+          },{
+            type: 'spline',
+            name: 'ema',
+            color: '#1F4788',
+            lineWidth: 1
+          },
+          {
+            type: 'spline',
+            name: 'forecast',
+            color: '#8D608C',
+            lineWidth: 1,
+            visible: false
+          }]
+        });
+        chart1.series[0].setData(data.price);
+        chart1.series[1].setData(data.sma);
+        chart1.series[2].setData(data.ema);
+        chart1.series[3].setData(data.tbats);
+    });
+});
+</script>

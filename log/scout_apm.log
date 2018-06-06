@@ -1,0 +1,260 @@
+# Logfile created on 2018-06-06 11:58:06 -0700 by logger.rb/1.2.8
+[06/06/18 11:58:06 -0700 burpingcows-MacBook-Air.local (54004)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 11:58:06 -0700 burpingcows-MacBook-Air.local (54004)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 11:58:06 -0700 burpingcows-MacBook-Air.local (54004)] INFO : Installed Background Job Integration [resque]
+[06/06/18 11:58:06 -0700 burpingcows-MacBook-Air.local (54004)] INFO : Installed Application Server Integration [puma].
+[06/06/18 11:58:06 -0700 burpingcows-MacBook-Air.local (54004)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 11:58:06 -0700 burpingcows-MacBook-Air.local (54004)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 11:59:27 -0700 burpingcows-MacBook-Air.local (54321)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 11:59:27 -0700 burpingcows-MacBook-Air.local (54321)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 11:59:27 -0700 burpingcows-MacBook-Air.local (54321)] INFO : Installed Background Job Integration [resque]
+[06/06/18 11:59:27 -0700 burpingcows-MacBook-Air.local (54321)] INFO : Installed Application Server Integration [puma].
+[06/06/18 11:59:27 -0700 burpingcows-MacBook-Air.local (54321)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 11:59:27 -0700 burpingcows-MacBook-Air.local (54321)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:00:01 -0700 burpingcows-MacBook-Air.local (54490)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:00:01 -0700 burpingcows-MacBook-Air.local (54490)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:00:01 -0700 burpingcows-MacBook-Air.local (54490)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:00:01 -0700 burpingcows-MacBook-Air.local (54490)] INFO : Installed Application Server Integration [puma].
+[06/06/18 12:00:01 -0700 burpingcows-MacBook-Air.local (54490)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:00:01 -0700 burpingcows-MacBook-Air.local (54490)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:01:35 -0700 burpingcows-MacBook-Air.local (54487)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:01:35 -0700 burpingcows-MacBook-Air.local (54487)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:01:35 -0700 burpingcows-MacBook-Air.local (54487)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:01:35 -0700 burpingcows-MacBook-Air.local (54487)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:01:35 -0700 burpingcows-MacBook-Air.local (54487)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:01:35 -0700 burpingcows-MacBook-Air.local (54487)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:01:35 -0700 burpingcows-MacBook-Air.local (54487)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:01:57 -0700 burpingcows-MacBook-Air.local (54963)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:01:57 -0700 burpingcows-MacBook-Air.local (54963)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:01:57 -0700 burpingcows-MacBook-Air.local (54963)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:01:57 -0700 burpingcows-MacBook-Air.local (54963)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:01:57 -0700 burpingcows-MacBook-Air.local (54963)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:01:57 -0700 burpingcows-MacBook-Air.local (54963)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:01:57 -0700 burpingcows-MacBook-Air.local (54963)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:05:45 -0700 burpingcows-MacBook-Air.local (55873)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:05:45 -0700 burpingcows-MacBook-Air.local (55873)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:05:45 -0700 burpingcows-MacBook-Air.local (55873)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:05:45 -0700 burpingcows-MacBook-Air.local (55873)] INFO : Installed Application Server Integration [puma].
+[06/06/18 12:05:45 -0700 burpingcows-MacBook-Air.local (55873)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:05:45 -0700 burpingcows-MacBook-Air.local (55873)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:06:51 -0700 burpingcows-MacBook-Air.local (56252)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:06:51 -0700 burpingcows-MacBook-Air.local (56252)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:06:51 -0700 burpingcows-MacBook-Air.local (56252)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:06:51 -0700 burpingcows-MacBook-Air.local (56252)] INFO : Installed Application Server Integration [puma].
+[06/06/18 12:06:51 -0700 burpingcows-MacBook-Air.local (56252)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:06:51 -0700 burpingcows-MacBook-Air.local (56252)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:07:39 -0700 burpingcows-MacBook-Air.local (56596)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:07:39 -0700 burpingcows-MacBook-Air.local (56596)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:07:39 -0700 burpingcows-MacBook-Air.local (56596)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:07:39 -0700 burpingcows-MacBook-Air.local (56596)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:07:39 -0700 burpingcows-MacBook-Air.local (56596)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:07:39 -0700 burpingcows-MacBook-Air.local (56596)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:07:39 -0700 burpingcows-MacBook-Air.local (56596)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:07:52 -0700 burpingcows-MacBook-Air.local (56624)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:07:52 -0700 burpingcows-MacBook-Air.local (56624)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:07:52 -0700 burpingcows-MacBook-Air.local (56624)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:07:52 -0700 burpingcows-MacBook-Air.local (56624)] INFO : Installed Application Server Integration [puma].
+[06/06/18 12:07:52 -0700 burpingcows-MacBook-Air.local (56624)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:07:52 -0700 burpingcows-MacBook-Air.local (56624)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:19:32 -0700 burpingcows-MacBook-Air.local (58612)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:19:32 -0700 burpingcows-MacBook-Air.local (58612)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:19:32 -0700 burpingcows-MacBook-Air.local (58612)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:19:32 -0700 burpingcows-MacBook-Air.local (58612)] INFO : Installed Application Server Integration [puma].
+[06/06/18 12:19:32 -0700 burpingcows-MacBook-Air.local (58612)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:19:32 -0700 burpingcows-MacBook-Air.local (58612)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:39:06 -0700 burpingcows-MacBook-Air.local (61670)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:39:06 -0700 burpingcows-MacBook-Air.local (61670)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:39:06 -0700 burpingcows-MacBook-Air.local (61670)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:39:06 -0700 burpingcows-MacBook-Air.local (61670)] INFO : Installed Application Server Integration [puma].
+[06/06/18 12:39:06 -0700 burpingcows-MacBook-Air.local (61670)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:39:06 -0700 burpingcows-MacBook-Air.local (61670)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:39:11 -0700 burpingcows-MacBook-Air.local (61529)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:39:11 -0700 burpingcows-MacBook-Air.local (61529)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:39:11 -0700 burpingcows-MacBook-Air.local (61529)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:39:11 -0700 burpingcows-MacBook-Air.local (61529)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:39:11 -0700 burpingcows-MacBook-Air.local (61529)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:39:11 -0700 burpingcows-MacBook-Air.local (61529)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:39:11 -0700 burpingcows-MacBook-Air.local (61529)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:39:27 -0700 burpingcows-MacBook-Air.local (61709)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:39:27 -0700 burpingcows-MacBook-Air.local (61709)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:39:27 -0700 burpingcows-MacBook-Air.local (61709)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:39:27 -0700 burpingcows-MacBook-Air.local (61709)] INFO : Installed Application Server Integration [puma].
+[06/06/18 12:39:27 -0700 burpingcows-MacBook-Air.local (61709)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:39:27 -0700 burpingcows-MacBook-Air.local (61709)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:39:40 -0700 burpingcows-MacBook-Air.local (61707)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:39:40 -0700 burpingcows-MacBook-Air.local (61707)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:39:40 -0700 burpingcows-MacBook-Air.local (61707)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:39:40 -0700 burpingcows-MacBook-Air.local (61707)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:39:40 -0700 burpingcows-MacBook-Air.local (61707)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:39:40 -0700 burpingcows-MacBook-Air.local (61707)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:39:40 -0700 burpingcows-MacBook-Air.local (61707)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:40:23 -0700 burpingcows-MacBook-Air.local (62054)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:40:23 -0700 burpingcows-MacBook-Air.local (62054)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:40:23 -0700 burpingcows-MacBook-Air.local (62054)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:40:23 -0700 burpingcows-MacBook-Air.local (62054)] INFO : Installed Application Server Integration [puma].
+[06/06/18 12:40:23 -0700 burpingcows-MacBook-Air.local (62054)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:40:23 -0700 burpingcows-MacBook-Air.local (62054)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:40:29 -0700 burpingcows-MacBook-Air.local (62052)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:40:29 -0700 burpingcows-MacBook-Air.local (62052)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:40:29 -0700 burpingcows-MacBook-Air.local (62052)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:40:29 -0700 burpingcows-MacBook-Air.local (62052)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:40:29 -0700 burpingcows-MacBook-Air.local (62052)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:40:29 -0700 burpingcows-MacBook-Air.local (62052)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:40:29 -0700 burpingcows-MacBook-Air.local (62052)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:40:54 -0700 burpingcows-MacBook-Air.local (62225)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:40:54 -0700 burpingcows-MacBook-Air.local (62225)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:40:54 -0700 burpingcows-MacBook-Air.local (62225)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:40:54 -0700 burpingcows-MacBook-Air.local (62225)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:40:54 -0700 burpingcows-MacBook-Air.local (62225)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:40:54 -0700 burpingcows-MacBook-Air.local (62225)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:40:54 -0700 burpingcows-MacBook-Air.local (62225)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:41:20 -0700 burpingcows-MacBook-Air.local (62426)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:41:20 -0700 burpingcows-MacBook-Air.local (62426)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:41:20 -0700 burpingcows-MacBook-Air.local (62426)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:41:20 -0700 burpingcows-MacBook-Air.local (62426)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:41:20 -0700 burpingcows-MacBook-Air.local (62426)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:41:20 -0700 burpingcows-MacBook-Air.local (62426)] INFO : Monitoring isn't enabled for the [production] environment.
+[06/06/18 12:41:20 -0700 burpingcows-MacBook-Air.local (62426)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:41:50 -0700 burpingcows-MacBook-Air.local (62445)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:41:50 -0700 burpingcows-MacBook-Air.local (62445)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:41:50 -0700 burpingcows-MacBook-Air.local (62445)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:41:50 -0700 burpingcows-MacBook-Air.local (62445)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:41:50 -0700 burpingcows-MacBook-Air.local (62445)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:41:50 -0700 burpingcows-MacBook-Air.local (62445)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:41:50 -0700 burpingcows-MacBook-Air.local (62445)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:42:21 -0700 burpingcows-MacBook-Air.local (62741)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:42:21 -0700 burpingcows-MacBook-Air.local (62741)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:42:21 -0700 burpingcows-MacBook-Air.local (62741)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:42:21 -0700 burpingcows-MacBook-Air.local (62741)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:42:21 -0700 burpingcows-MacBook-Air.local (62741)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:42:21 -0700 burpingcows-MacBook-Air.local (62741)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:42:21 -0700 burpingcows-MacBook-Air.local (62741)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:42:52 -0700 burpingcows-MacBook-Air.local (62773)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:42:52 -0700 burpingcows-MacBook-Air.local (62773)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:42:52 -0700 burpingcows-MacBook-Air.local (62773)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:42:52 -0700 burpingcows-MacBook-Air.local (62773)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:42:52 -0700 burpingcows-MacBook-Air.local (62773)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:42:52 -0700 burpingcows-MacBook-Air.local (62773)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:42:52 -0700 burpingcows-MacBook-Air.local (62773)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:43:21 -0700 burpingcows-MacBook-Air.local (62943)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:43:21 -0700 burpingcows-MacBook-Air.local (62943)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:43:21 -0700 burpingcows-MacBook-Air.local (62943)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:43:21 -0700 burpingcows-MacBook-Air.local (62943)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:43:21 -0700 burpingcows-MacBook-Air.local (62943)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:43:21 -0700 burpingcows-MacBook-Air.local (62943)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:43:21 -0700 burpingcows-MacBook-Air.local (62943)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:43:31 -0700 burpingcows-MacBook-Air.local (62974)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:43:31 -0700 burpingcows-MacBook-Air.local (62974)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:43:31 -0700 burpingcows-MacBook-Air.local (62974)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:43:31 -0700 burpingcows-MacBook-Air.local (62974)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:43:31 -0700 burpingcows-MacBook-Air.local (62974)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:43:31 -0700 burpingcows-MacBook-Air.local (62974)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:43:31 -0700 burpingcows-MacBook-Air.local (62974)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:43:45 -0700 burpingcows-MacBook-Air.local (63000)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:43:45 -0700 burpingcows-MacBook-Air.local (63000)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:43:45 -0700 burpingcows-MacBook-Air.local (63000)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:43:45 -0700 burpingcows-MacBook-Air.local (63000)] INFO : Installed Application Server Integration [puma].
+[06/06/18 12:43:45 -0700 burpingcows-MacBook-Air.local (63000)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:43:45 -0700 burpingcows-MacBook-Air.local (63000)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:43:48 -0700 burpingcows-MacBook-Air.local (62998)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:43:48 -0700 burpingcows-MacBook-Air.local (62998)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:43:48 -0700 burpingcows-MacBook-Air.local (62998)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:43:48 -0700 burpingcows-MacBook-Air.local (62998)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:43:48 -0700 burpingcows-MacBook-Air.local (62998)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:43:48 -0700 burpingcows-MacBook-Air.local (62998)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:43:48 -0700 burpingcows-MacBook-Air.local (62998)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:44:41 -0700 burpingcows-MacBook-Air.local (63315)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:44:41 -0700 burpingcows-MacBook-Air.local (63315)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:44:41 -0700 burpingcows-MacBook-Air.local (63315)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:44:41 -0700 burpingcows-MacBook-Air.local (63315)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:44:41 -0700 burpingcows-MacBook-Air.local (63315)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:44:41 -0700 burpingcows-MacBook-Air.local (63315)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:44:41 -0700 burpingcows-MacBook-Air.local (63315)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:45:14 -0700 burpingcows-MacBook-Air.local (63481)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:45:14 -0700 burpingcows-MacBook-Air.local (63481)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:45:14 -0700 burpingcows-MacBook-Air.local (63481)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:45:14 -0700 burpingcows-MacBook-Air.local (63481)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:45:14 -0700 burpingcows-MacBook-Air.local (63481)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:45:14 -0700 burpingcows-MacBook-Air.local (63481)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:45:14 -0700 burpingcows-MacBook-Air.local (63481)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:48:13 -0700 burpingcows-MacBook-Air.local (64020)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:48:13 -0700 burpingcows-MacBook-Air.local (64020)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:48:13 -0700 burpingcows-MacBook-Air.local (64020)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:48:13 -0700 burpingcows-MacBook-Air.local (64020)] INFO : Installed Application Server Integration [puma].
+[06/06/18 12:48:13 -0700 burpingcows-MacBook-Air.local (64020)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:48:13 -0700 burpingcows-MacBook-Air.local (64020)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:48:16 -0700 burpingcows-MacBook-Air.local (64018)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:48:16 -0700 burpingcows-MacBook-Air.local (64018)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:48:16 -0700 burpingcows-MacBook-Air.local (64018)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:48:16 -0700 burpingcows-MacBook-Air.local (64018)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:48:16 -0700 burpingcows-MacBook-Air.local (64018)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:48:16 -0700 burpingcows-MacBook-Air.local (64018)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:48:16 -0700 burpingcows-MacBook-Air.local (64018)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:48:40 -0700 burpingcows-MacBook-Air.local (64189)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:48:40 -0700 burpingcows-MacBook-Air.local (64189)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:48:40 -0700 burpingcows-MacBook-Air.local (64189)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:48:40 -0700 burpingcows-MacBook-Air.local (64189)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:48:40 -0700 burpingcows-MacBook-Air.local (64189)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:48:40 -0700 burpingcows-MacBook-Air.local (64189)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:48:40 -0700 burpingcows-MacBook-Air.local (64189)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:49:02 -0700 burpingcows-MacBook-Air.local (64232)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:49:02 -0700 burpingcows-MacBook-Air.local (64232)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:49:02 -0700 burpingcows-MacBook-Air.local (64232)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:49:02 -0700 burpingcows-MacBook-Air.local (64232)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:49:02 -0700 burpingcows-MacBook-Air.local (64232)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:49:02 -0700 burpingcows-MacBook-Air.local (64232)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:49:02 -0700 burpingcows-MacBook-Air.local (64232)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:49:27 -0700 burpingcows-MacBook-Air.local (64410)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:49:27 -0700 burpingcows-MacBook-Air.local (64410)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:49:27 -0700 burpingcows-MacBook-Air.local (64410)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:49:27 -0700 burpingcows-MacBook-Air.local (64410)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:49:27 -0700 burpingcows-MacBook-Air.local (64410)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:49:27 -0700 burpingcows-MacBook-Air.local (64410)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:49:27 -0700 burpingcows-MacBook-Air.local (64410)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:51:16 -0700 burpingcows-MacBook-Air.local (64799)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:51:16 -0700 burpingcows-MacBook-Air.local (64799)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:51:16 -0700 burpingcows-MacBook-Air.local (64799)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:51:16 -0700 burpingcows-MacBook-Air.local (64799)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:51:16 -0700 burpingcows-MacBook-Air.local (64799)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:51:16 -0700 burpingcows-MacBook-Air.local (64799)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:51:16 -0700 burpingcows-MacBook-Air.local (64799)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 12:51:50 -0700 burpingcows-MacBook-Air.local (64836)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:51:50 -0700 burpingcows-MacBook-Air.local (64836)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:51:50 -0700 burpingcows-MacBook-Air.local (64836)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:51:50 -0700 burpingcows-MacBook-Air.local (64836)] INFO : Installed Application Server Integration [puma].
+[06/06/18 12:51:50 -0700 burpingcows-MacBook-Air.local (64836)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:51:50 -0700 burpingcows-MacBook-Air.local (64836)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:51:53 -0700 burpingcows-MacBook-Air.local (64833)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 12:51:53 -0700 burpingcows-MacBook-Air.local (64833)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 12:51:53 -0700 burpingcows-MacBook-Air.local (64833)] INFO : Installed Background Job Integration [resque]
+[06/06/18 12:51:53 -0700 burpingcows-MacBook-Air.local (64833)] INFO : Installed Application Server Integration [null].
+[06/06/18 12:51:53 -0700 burpingcows-MacBook-Air.local (64833)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 12:51:53 -0700 burpingcows-MacBook-Air.local (64833)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 12:51:53 -0700 burpingcows-MacBook-Air.local (64833)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 13:54:50 -0700 burpingcows-MacBook-Air.local (75074)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 13:54:50 -0700 burpingcows-MacBook-Air.local (75074)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 13:54:50 -0700 burpingcows-MacBook-Air.local (75074)] INFO : Installed Background Job Integration [resque]
+[06/06/18 13:54:50 -0700 burpingcows-MacBook-Air.local (75074)] INFO : Installed Application Server Integration [puma].
+[06/06/18 13:54:50 -0700 burpingcows-MacBook-Air.local (75074)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 13:54:50 -0700 burpingcows-MacBook-Air.local (75074)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 13:54:53 -0700 burpingcows-MacBook-Air.local (75070)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 13:54:53 -0700 burpingcows-MacBook-Air.local (75070)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 13:54:53 -0700 burpingcows-MacBook-Air.local (75070)] INFO : Installed Background Job Integration [resque]
+[06/06/18 13:54:53 -0700 burpingcows-MacBook-Air.local (75070)] INFO : Installed Application Server Integration [null].
+[06/06/18 13:54:53 -0700 burpingcows-MacBook-Air.local (75070)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 13:54:53 -0700 burpingcows-MacBook-Air.local (75070)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 13:54:53 -0700 burpingcows-MacBook-Air.local (75070)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 14:21:56 -0700 burpingcows-MacBook-Air.local (79582)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 14:21:56 -0700 burpingcows-MacBook-Air.local (79582)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 14:21:56 -0700 burpingcows-MacBook-Air.local (79582)] INFO : Installed Background Job Integration [resque]
+[06/06/18 14:21:56 -0700 burpingcows-MacBook-Air.local (79582)] INFO : Installed Application Server Integration [null].
+[06/06/18 14:21:56 -0700 burpingcows-MacBook-Air.local (79582)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 14:21:56 -0700 burpingcows-MacBook-Air.local (79582)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 14:21:56 -0700 burpingcows-MacBook-Air.local (79582)] INFO : Deferring agent start. Standing by for first request
+[06/06/18 14:26:16 -0700 burpingcows-MacBook-Air.local (80587)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit http://help.apm.scoutapp.com/#configuration-options
+[06/06/18 14:26:16 -0700 burpingcows-MacBook-Air.local (80587)] INFO : Scout Agent [2.4.9] Initialized
+[06/06/18 14:26:16 -0700 burpingcows-MacBook-Air.local (80587)] INFO : Installed Background Job Integration [resque]
+[06/06/18 14:26:16 -0700 burpingcows-MacBook-Air.local (80587)] INFO : Installed Application Server Integration [null].
+[06/06/18 14:26:16 -0700 burpingcows-MacBook-Air.local (80587)] INFO : Scout Agent [2.4.9] Installed
+[06/06/18 14:26:16 -0700 burpingcows-MacBook-Air.local (80587)] INFO : Monitoring isn't enabled for the [development] environment.
+[06/06/18 14:26:16 -0700 burpingcows-MacBook-Air.local (80587)] INFO : Deferring agent start. Standing by for first request

@@ -1,0 +1,29 @@
+<div class="mdl-grid">
+  <div class="mdl-color--white  mdl-cell mdl-cell--6-col mdl-grid" id="container1"></div>
+  <div class="mdl-color--white  mdl-cell mdl-cell--6-col mdl-grid" id="container2"></div>
+  <%= render 'portfolio/poketvalue' %>
+</div>
+<div class="mdl-grid" id="order-table">
+    <table class="mdl-data-table mdl-js-data-table">
+      <thead>
+        <tr>
+          <th class="mdl-data-table__cell--left">ASSET PAIR</th>
+          <th class="mdl-data-table__cell--left">TIME</th>
+          <th class="mdl-data-table__cell--left">PRICE DELTA</th>
+          <th class="mdl-data-table__cell--left">ORDER</th>
+         <th class="mdl-data-table__cell--left">INITIAL WEIGHT</th>
+          <th class="mdl-data-table__cell--left">OPTIM WEIGHT</th>
+          <th class="mdl-data-table__cell--left">TRADE QTY</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% @delta.each do |h| %>
+          <tr>
+          	<% h.each do |e| %>
+            <td class="mdl-data-table__cell--left"><%= e %></td>
+           <% end %>
+          </tr>
+        <% end %>
+      </tbody>
+    </table>
+</div>

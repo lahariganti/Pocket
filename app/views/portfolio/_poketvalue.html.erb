@@ -1,0 +1,86 @@
+<script type="text/javascript"> 
+  $.getJSON('poketvalue.json', function (data) {
+    Highcharts.chart('container1', {
+      title: {
+        text: "Pocketed"
+      },
+      exporting:{
+        enabled: false
+      },
+      credits: {
+        enabled: false
+      },
+      xAxis: {
+        minPadding: 0.05,
+        maxPadding: 0.05
+      },
+      plotOptions: {
+        pie: {
+          dataLabels:{
+            enabled: true,
+            softConnector: false
+          }
+        }
+      },
+      series: [{
+          type: "pie",
+          size: '70%',
+          innerSize: '30%',
+          name: "holding",
+          data: data[1]
+      }]
+    });
+  });
+
+  $.getJSON('poketvalue.json', function (data) {
+    chart2 = Highcharts.chart('container2', {
+      chart: {
+          zoomType: 'x'
+      },
+      exporting:{
+      	enabled: false
+      },
+      credits: {
+      	enabled: false
+      },
+      title: {
+          text: 'ROI'
+      },
+
+      xAxis: {
+          type: 'datetime'
+      },
+      yAxis: {
+        type: 'logarithmic',
+        // labels: {
+        //   format: '{value:.8f}'
+        // },
+        title: {
+            text: ''
+        }
+      },
+      legend: {
+        enabled: false
+      },
+
+      plotOptions: {
+        series:{
+          connectNulls: true,
+          pointWidth: 3, 
+          marker: {
+            enabled: false
+          }
+        }
+      },
+
+      series: [{
+        color: "#000000",
+        fillOpacity: 0.85,
+        type: 'spline',
+        name: 'ROI',
+        showInLegend: true
+      }]
+    });
+    chart2.series[0].setData(data[0]);
+  });
+</script>

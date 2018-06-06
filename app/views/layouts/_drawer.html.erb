@@ -1,0 +1,9 @@
+<div class="mdl-layout__drawer">
+	<div class="mdl-layout-title"><%= link_to("FURIERIT", "/", class: "draw-logo") %></div>
+	<nav class="mdl-navigation">
+	  <%= link_to("PORTFOLIO", "poketvalue" , class: "mdl-navigation__link") %>
+	  <% @interest.each do |ap|  %>
+	  	<%= link_to(ap, show_path(:assetpair => ap) , class: "mdl-navigation__link") %>
+	  <% end %>
+	</nav>
+</div>
